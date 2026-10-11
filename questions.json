@@ -1,0 +1,800 @@
+[
+ {
+  "id": 1,
+  "topic": "Sterilization of Metal Instruments",
+  "ref": "p. 4-9",
+  "chapter": "Chapter 1B: Sterilization and Disinfection",
+  "answer": "Sterilization is the complete destruction of all microorganisms including spores. Autoclaving (steam under pressure at 121°C for 15-20 min) is the most reliable method for metal instruments. Dry heat in a hot-air oven (160°C for 1 hour) suits sharps, glassware and powders. Heat-sensitive items like endoscopes and plastics are sterilized by ethylene oxide gas, glutaraldehyde or low-temperature plasma. Indicators such as Bowie-Dick tape and spore tests confirm that sterilization has worked."
+ },
+ {
+  "id": 2,
+  "topic": "Antiseptics",
+  "ref": "p. 4",
+  "chapter": "Chapter 1B: Sterilization and Disinfection",
+  "answer": "Antiseptics are chemicals safe enough to apply to living tissue to kill or inhibit microbes. Common agents are povidone-iodine, chlorhexidine, alcohol (70%), hydrogen peroxide and cetrimide. Chlorhexidine is widely used in dentistry for mouthwash and skin preparation. Disinfectants, by contrast, are used on inanimate objects and are too toxic for tissue. Choice depends on spectrum of action, contact time and tissue toxicity."
+ },
+ {
+  "id": 3,
+  "topic": "Hyponatraemia",
+  "ref": "p. 12",
+  "chapter": "Chapter 2: Fluid, Electrolytes, Acid-Base Balance and Nutrition",
+  "answer": "Hyponatraemia is a serum sodium below 135 mmol/L and is the commonest electrolyte disorder. Causes include excess water intake, vomiting, diarrhoea, diuretics, SIADH, cardiac, renal and hepatic failure. Features are headache, nausea, confusion, seizures and coma, depending on how fast sodium falls. Diagnosis needs serum and urine osmolality, urine sodium and volume status. Treatment is fluid restriction or isotonic saline, with 3% saline for severe symptoms, correcting slowly to avoid osmotic demyelination."
+ },
+ {
+  "id": 4,
+  "topic": "Diabetic Ketoacidosis",
+  "ref": "p. 22 (Metabolic acidosis)",
+  "chapter": "Chapter 2: Fluid, Electrolytes, Acid-Base Balance and Nutrition",
+  "answer": "DKA is an acute emergency of insulin deficiency leading to hyperglycaemia, ketosis and metabolic acidosis. It is triggered by infection, missed insulin, surgery or trauma. Patients have polyuria, thirst, vomiting, abdominal pain, dehydration, Kussmaul breathing and fruity breath. Blood glucose is high, ketones are positive and pH is below 7.3 with low bicarbonate. Treatment is IV fluids, IV insulin infusion, potassium replacement and treating the cause."
+ },
+ {
+  "id": 5,
+  "topic": "Wound Healing",
+  "ref": "p. 28",
+  "chapter": "Chapter 3: Wounds, Inflammation, Sinus, Fistula and Ulcer",
+  "answer": "Wound healing proceeds through haemostasis, inflammation, proliferation and remodelling. Primary intention occurs in clean, sutured wounds with minimal scar. Secondary intention occurs in open, infected or gaping wounds through granulation and contraction. Healing is delayed by infection, poor blood supply, diabetes, malnutrition, steroids and foreign bodies. Good surgical technique and nutrition promote healing."
+ },
+ {
+  "id": 6,
+  "topic": "Stages of Inflammation",
+  "ref": "p. 28",
+  "chapter": "Chapter 3: Wounds, Inflammation, Sinus, Fistula and Ulcer",
+  "answer": "Inflammation is the body's response to injury, marked by rubor, calor, tumor, dolor and loss of function. The vascular stage brings vasodilatation and increased permeability. The cellular stage involves neutrophil migration followed by macrophages. Resolution, suppuration, fibrosis or chronic inflammation may follow. Chemical mediators such as histamine, bradykinin and prostaglandins drive these changes."
+ },
+ {
+  "id": 7,
+  "topic": "Differences Between Sinus and Fistula",
+  "ref": "p. 39",
+  "chapter": "Chapter 3: Wounds, Inflammation, Sinus, Fistula and Ulcer",
+  "answer": "A sinus is a blind tract lined by granulation tissue that opens on one surface only. A fistula is an abnormal communication between two epithelial-lined surfaces or hollow organs. A sinus is usually due to a foreign body, chronic infection or osteomyelitis, while a fistula can be congenital or acquired. Examples are a pilonidal sinus versus an anal or branchial fistula. Treatment of both is excision of the tract with removal of the cause."
+ },
+ {
+  "id": 8,
+  "topic": "Aphthous Ulcer",
+  "ref": "p. 42",
+  "chapter": "Chapter 3: Wounds, Inflammation, Sinus, Fistula and Ulcer",
+  "answer": "Aphthous ulcers are painful, recurrent, shallow oral ulcers with a grey base and red halo. They occur on non-keratinized mucosa such as the lips, cheeks and floor of mouth. Minor ulcers heal in 7-14 days, while major ones are deeper and may scar. Triggers include stress, trauma, vitamin B12, iron or folate deficiency and food allergy. Treatment is topical steroids, antiseptic mouthwash and correcting any deficiency."
+ },
+ {
+  "id": 9,
+  "topic": "Rodent Ulcer",
+  "ref": "p. 53",
+  "chapter": "Chapter 3: Wounds, Inflammation, Sinus, Fistula and Ulcer",
+  "answer": "Rodent ulcer is the old name for basal cell carcinoma, a slow-growing, locally invasive skin cancer. It occurs on the face above a line joining the angle of mouth to the ear lobe. It has a pearly edge with telangiectasia and a central ulcer that erodes deeply. It rarely metastasizes. Treatment is wide excision, radiotherapy or Mohs surgery."
+ },
+ {
+  "id": 10,
+  "topic": "Venous Ulcer",
+  "ref": "p. 54",
+  "chapter": "Chapter 3: Wounds, Inflammation, Sinus, Fistula and Ulcer",
+  "answer": "Venous ulcer is the commonest leg ulcer, caused by chronic venous hypertension from varicose veins or deep vein incompetence. It lies in the gaiter area above the medial malleolus. It is shallow with sloping edges, surrounded by pigmentation, eczema and lipodermatosclerosis. It is often painless or has a dull ache relieved by elevation. Treatment is compression bandaging, leg elevation, wound care and correction of venous reflux."
+ },
+ {
+  "id": 11,
+  "topic": "Cellulitis",
+  "ref": "p. 56",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "Cellulitis is a diffuse spreading infection of skin and subcutaneous tissue, usually by Streptococcus pyogenes or Staphylococcus aureus. It presents with a red, hot, swollen, tender area with fever and malaise. There is no localized pus collection. Lymphangitis and lymphadenitis may accompany it. Treatment is rest, elevation and antibiotics such as penicillin or flucloxacillin."
+ },
+ {
+  "id": 12,
+  "topic": "Carbuncle",
+  "ref": "p. 65",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "A carbuncle is a deep infection of several adjacent hair follicles and subcutaneous tissue by Staphylococcus aureus. It is common on the nape of the neck, back and buttocks, especially in diabetics. It appears as a painful, indurated swelling with multiple discharging openings and surrounding cellulitis. Fever and toxicity are present. Treatment is antibiotics, glycaemic control and cruciate incision with drainage and excision of sloughs."
+ },
+ {
+  "id": 13,
+  "topic": "Collar Stud Abscess",
+  "ref": "p. 62",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "A collar stud abscess is a tuberculous cold abscess with two cavities joined by a narrow neck. One part lies deep to the deep fascia and the other in the subcutaneous plane. It is commonly seen in the neck from tubercular lymph nodes. It is painless, fluctuant and without signs of acute inflammation. Treatment is antitubercular drugs, aspiration through healthy skin or excision of the cavity."
+ },
+ {
+  "id": 14,
+  "topic": "Tetanus",
+  "ref": "p. 68",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "Tetanus is caused by exotoxin (tetanospasmin) of Clostridium tetani, an anaerobic spore-forming bacillus entering through wounds. The toxin blocks inhibitory neurotransmitters in the spinal cord. Features include trismus (lockjaw), risus sardonicus, opisthotonus and painful muscle spasms. Treatment is human tetanus immunoglobulin, wound debridement, metronidazole, sedation and muscle relaxants in a quiet ICU. Prevention is tetanus toxoid immunization."
+ },
+ {
+  "id": 15,
+  "topic": "Gas Gangrene",
+  "ref": "p. 71",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "Gas gangrene is a rapidly spreading muscle necrosis caused by Clostridium perfringens in deep, dirty, ischaemic wounds. The alpha-toxin causes tissue destruction and gas formation. Signs are severe pain, brown foul discharge, crepitus, swelling and marked toxaemia. Diagnosis is clinical, supported by gas on X-ray. Treatment is urgent radical debridement or amputation, high-dose penicillin and hyperbaric oxygen."
+ },
+ {
+  "id": 16,
+  "topic": "Actinomycosis",
+  "ref": "p. 75",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "Actinomycosis is a chronic suppurative infection by Actinomyces israelii, a normally commensal anaerobe of the mouth. Cervicofacial form is commonest, often following dental extraction or poor oral hygiene. It presents as a hard, woody swelling at the angle of jaw with multiple sinuses discharging sulphur granules. Diagnosis is by finding granules and Gram-positive branching filaments. Treatment is prolonged high-dose penicillin with drainage and dental care."
+ },
+ {
+  "id": 17,
+  "topic": "Hospital (Nosocomial) Infection",
+  "ref": "p. 80",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "Hospital infection is acquired in a hospital and appears 48 hours or more after admission. Common organisms are MRSA, Pseudomonas, E. coli and Klebsiella. Common sites are surgical wounds, urinary tract, respiratory tract and IV cannula sites. Spread occurs through hands, instruments and air. Prevention includes hand hygiene, sterilization, aseptic technique, isolation and antibiotic stewardship."
+ },
+ {
+  "id": 18,
+  "topic": "Necrotizing Fasciitis",
+  "ref": "p. 81",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "Necrotizing fasciitis is a rapidly spreading infection of fascia and subcutaneous tissue with secondary skin necrosis. It is caused by group A streptococci, anaerobes or mixed flora, and diabetics are at high risk. Features are pain out of proportion to signs, dusky skin, blisters, crepitus and toxic shock. It is a surgical emergency. Treatment is early wide debridement, broad-spectrum antibiotics and intensive care."
+ },
+ {
+  "id": 19,
+  "topic": "HIV Infection and Dental Care",
+  "ref": "p. 87",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "HIV attacks CD4 T cells and leads to AIDS through progressive immune failure. Oral lesions often appear early, such as candidiasis, hairy leukoplakia, Kaposi sarcoma and severe periodontitis. Dentists should use universal precautions with every patient. Gloves, masks, eye protection and sterilized instruments are essential. Dental care is given with attention to infection risk, bleeding and drug interactions."
+ },
+ {
+  "id": 20,
+  "topic": "Surgery on HIV Patient",
+  "ref": "p. 87-90",
+  "chapter": "Chapter 4: Infectious Diseases",
+  "answer": "All patients are treated with universal precautions, so HIV status does not change routine barrier protection. Double gloving, eye shields and careful sharps handling reduce risk. Needle stick injury needs immediate washing, bleeding encouraged and no squeezing or scrubbing. Post-exposure prophylaxis with antiretrovirals should start within 2 hours and ideally within 72 hours. The incident is reported and the source and worker are tested and followed up."
+ },
+ {
+  "id": 21,
+  "topic": "Lipoma",
+  "ref": "p. 97",
+  "chapter": "Chapter 5: Swellings",
+  "answer": "Lipoma is a benign tumour of fat cells, the commonest soft tissue swelling. It is soft, lobulated, mobile and painless with a slip sign and edge that slips under the finger. It is usually found in subcutaneous tissue of the back, neck and shoulder. Fluctuation is absent but may be mimicked. Treatment is excision if symptomatic or cosmetically bothersome."
+ },
+ {
+  "id": 22,
+  "topic": "Sebaceous Cyst",
+  "ref": "p. 103",
+  "chapter": "Chapter 5: Swellings",
+  "answer": "Sebaceous (epidermal) cyst arises from blockage of a sebaceous gland duct. It is a smooth, round, firm to cystic swelling with a central punctum. It is common on scalp, face, neck and scrotum. It is attached to skin but not to deeper tissues. Infection may cause an abscess, and treatment is complete excision with the cyst wall."
+ },
+ {
+  "id": 23,
+  "topic": "Dermoid Cyst",
+  "ref": "p. 101",
+  "chapter": "Chapter 5: Swellings",
+  "answer": "Dermoid cysts contain skin elements such as hair, sebum and keratin, lined by squamous epithelium. They are congenital (sequestration type) along lines of embryonic fusion, such as the outer angle of the eyebrow, midline of the neck and floor of mouth. They are non-tender, soft, cystic swellings that are fixed to deeper structures and not to skin. Implantation dermoids follow trauma, typically at fingers. Treatment is excision."
+ },
+ {
+  "id": 24,
+  "topic": "Epidermoid Cyst",
+  "ref": "p. 100",
+  "chapter": "Chapter 5: Swellings",
+  "answer": "Epidermoid cyst is lined by stratified squamous epithelium and filled with keratin. It is caused by implantation of epidermis or blockage of a pilosebaceous unit. It presents as a slow-growing, firm, mobile swelling with a punctum. It may become infected and inflamed, or rarely rupture. Treatment is surgical excision with the whole capsule to prevent recurrence."
+ },
+ {
+  "id": 25,
+  "topic": "Neurofibroma",
+  "ref": "p. 105",
+  "chapter": "Chapter 5: Swellings",
+  "answer": "Neurofibroma is a benign tumour of nerve sheath cells, fibroblasts and Schwann cells. It occurs as a solitary swelling or multiple lesions along nerves. It is soft or firm, mobile sideways but not along the nerve, and may cause tingling. Deep ones can compress structures, and rarely turn malignant. Treatment is excision when symptomatic."
+ },
+ {
+  "id": 26,
+  "topic": "Von Recklinghausen's Disease",
+  "ref": "p. 105",
+  "chapter": "Chapter 5: Swellings",
+  "answer": "This is neurofibromatosis type 1, an autosomal dominant disorder from NF1 gene mutation on chromosome 17. Features are multiple neurofibromas, cafe-au-lait spots, axillary freckling and Lisch nodules. Complications include scoliosis, optic glioma, phaeochromocytoma and malignant transformation. Oral lesions may involve the tongue and jaw. Treatment is symptomatic, with surgery for troublesome lesions and genetic counselling."
+ },
+ {
+  "id": 27,
+  "topic": "Shock (Septic, Hypovolaemic, Haemorrhagic)",
+  "ref": "p. 112",
+  "chapter": "Chapter 6: Shock, Hemorrhage and Blood Transfusion",
+  "answer": "Shock is circulatory failure with inadequate tissue perfusion and oxygen delivery. Hypovolaemic or haemorrhagic shock follows blood or fluid loss, while septic shock follows overwhelming infection. Signs are low blood pressure, fast thready pulse, cold clammy skin, oliguria and altered sensorium. Treatment is airway, breathing, rapid IV fluids or blood and treating the cause. Septic shock also needs early antibiotics, source control and vasopressors."
+ },
+ {
+  "id": 28,
+  "topic": "Septic Shock",
+  "ref": "p. 112",
+  "chapter": "Chapter 6: Shock, Hemorrhage and Blood Transfusion",
+  "answer": "Septic shock is sepsis with persistent hypotension despite adequate fluids, caused mainly by gram-negative bacteria. Endotoxin and cytokines cause vasodilatation and capillary leak. Patients are initially warm and flushed with bounding pulse, then become cold and shut down. Lactate is raised and organs begin to fail. Treatment is cultures, early broad-spectrum antibiotics, fluids, noradrenaline and source control."
+ },
+ {
+  "id": 29,
+  "topic": "Endotoxin",
+  "ref": "p. 112-119",
+  "chapter": "Chapter 6: Shock, Hemorrhage and Blood Transfusion",
+  "answer": "Endotoxin is the lipopolysaccharide (LPS) component of gram-negative bacterial cell walls. It is released when bacteria die and is recognised by toll-like receptor 4. It triggers release of TNF-alpha, IL-1 and IL-6 from macrophages. These cause fever, vasodilatation, increased capillary permeability and DIC. It is the main trigger of septic shock and SIRS."
+ },
+ {
+  "id": 30,
+  "topic": "Multiorgan Dysfunction in Septicaemia",
+  "ref": "p. 119",
+  "chapter": "Chapter 6: Shock, Hemorrhage and Blood Transfusion",
+  "answer": "Multiple organ dysfunction syndrome (MODS) is progressive failure of two or more organs after sepsis. Inflammatory mediators and poor perfusion damage the lungs, kidneys, liver, heart, gut and brain. Features include ARDS, acute kidney injury, jaundice, DIC and encephalopathy. It carries a high mortality that rises with the number of failing organs. Management is source control, antibiotics, resuscitation and organ support."
+ },
+ {
+  "id": 31,
+  "topic": "Types of Haemorrhage",
+  "ref": "p. 123",
+  "chapter": "Chapter 6: Shock, Hemorrhage and Blood Transfusion",
+  "answer": "Haemorrhage is classified by vessel as arterial (bright red, spurting), venous (dark, steady flow) or capillary (oozing). By timing it is primary (at injury), reactionary (within 24 hours as BP rises) or secondary (7-10 days, usually from infection). It may be revealed (external) or concealed (internal). Severity is graded by percentage of blood volume lost. Management follows the type and amount of loss."
+ },
+ {
+  "id": 32,
+  "topic": "Methods to Control Bleeding",
+  "ref": "p. 123",
+  "chapter": "Chapter 6: Shock, Hemorrhage and Blood Transfusion",
+  "answer": "Direct pressure with elevation is the first and simplest measure. Packing, pressure bandage and tourniquet help in limb haemorrhage. Surgical options are ligation, suturing the vessel, diathermy, and haemostatic clips. Local haemostatics include adrenaline, bone wax, gelatin sponge and oxidised cellulose. Blood volume is restored with fluids and transfusion, and clotting disorders are corrected."
+ },
+ {
+  "id": 33,
+  "topic": "Complications of Blood Transfusion",
+  "ref": "p. 127",
+  "chapter": "Chapter 6: Shock, Hemorrhage and Blood Transfusion",
+  "answer": "Immediate reactions include haemolytic reaction from ABO mismatch, febrile reaction and allergic urticaria. Severe ones are anaphylaxis, TRALI and circulatory overload. Massive transfusion can cause hypothermia, hyperkalaemia, citrate toxicity and coagulopathy. Delayed complications are transmission of HIV, hepatitis B and C, malaria and iron overload. Prevention is correct cross-matching, screened donors and careful monitoring."
+ },
+ {
+  "id": 34,
+  "topic": "Blood Products",
+  "ref": "p. 128",
+  "chapter": "Chapter 6: Shock, Hemorrhage and Blood Transfusion",
+  "answer": "Whole blood is rarely used, and components are preferred. Packed red cells treat anaemia and blood loss. Platelet concentrates treat thrombocytopenia and platelet dysfunction. Fresh frozen plasma gives clotting factors, and cryoprecipitate gives fibrinogen and factor VIII. Albumin and immunoglobulins are plasma derivatives."
+ },
+ {
+  "id": 35,
+  "topic": "Thermal Burns",
+  "ref": "p. 132",
+  "chapter": "Chapter 7: Burns",
+  "answer": "Thermal burns result from flame, scalds, contact or radiant heat, and are classified by depth into superficial, partial and full thickness. Extent is estimated by the Rule of Nines in adults. Fluid loss, shock, infection and inhalation injury are the main dangers. Resuscitation uses Parkland formula (4 mL x kg x %TBSA) over 24 hours with half given in the first 8 hours. Wounds are cleaned, dressed with silver sulphadiazine, and deep burns need skin grafting."
+ },
+ {
+  "id": 36,
+  "topic": "Types of Skin Grafting",
+  "ref": "p. 142",
+  "chapter": "Chapter 8: Reconstruction and Transplantation",
+  "answer": "Skin grafts are pieces of skin transferred without their own blood supply. Split-thickness grafts include epidermis and part of dermis, take easily and the donor heals itself. Full-thickness grafts include entire dermis, give better colour and less contraction but need a primary-closed donor site. Grafts can also be autograft, allograft or xenograft. Success depends on a well-vascularised, infection-free bed with no haematoma."
+ },
+ {
+  "id": 37,
+  "topic": "Ischaemia",
+  "ref": "p. 185",
+  "chapter": "Chapter 11: Arterial Diseases",
+  "answer": "Ischaemia is inadequate blood supply to a tissue, commonly from atherosclerosis, embolism or thrombosis. Chronic ischaemia causes intermittent claudication, rest pain, ulcers and gangrene. Acute ischaemia shows the six Ps: pain, pallor, pulselessness, paraesthesia, paralysis and perishing cold. Diagnosis uses Doppler, ankle-brachial index and angiography. Treatment is risk factor control, antiplatelets, angioplasty, bypass or embolectomy."
+ },
+ {
+  "id": 38,
+  "topic": "Thromboangiitis Obliterans (Buerger's Disease)",
+  "ref": "p. 192",
+  "chapter": "Chapter 11: Arterial Diseases",
+  "answer": "TAO is an inflammatory, segmental thrombosing disease of small and medium arteries and veins of limbs. It affects young male smokers and is strongly linked to tobacco. Features are claudication, rest pain, migratory thrombophlebitis, ulcers and gangrene of toes. Pulses are lost distally with Buerger's angle test positive. The key treatment is complete cessation of smoking, with sympathectomy or amputation in advanced cases."
+ },
+ {
+  "id": 39,
+  "topic": "Embolism",
+  "ref": "p. 198",
+  "chapter": "Chapter 11: Arterial Diseases",
+  "answer": "Embolism is blockage of a vessel by a mass carried in the bloodstream. The commonest source is the heart, from atrial fibrillation, mural thrombus or valve disease. It lodges at bifurcations such as the femoral and popliteal arteries. It causes sudden severe ischaemia with the six Ps. Treatment is heparin and urgent embolectomy with a Fogarty catheter."
+ },
+ {
+  "id": 40,
+  "topic": "Air Embolism",
+  "ref": "p. 198",
+  "chapter": "Chapter 11: Arterial Diseases",
+  "answer": "Air embolism is entry of air into the venous or arterial circulation. It occurs in neck and head surgery, central line insertion, and trauma to large veins. As little as 100-300 mL of air rapidly in a vein can be fatal by blocking the right heart. Signs are sudden dyspnoea, chest pain, a millwheel murmur, hypotension and collapse. Management is to cover the site, place the patient left lateral head-down, give 100% oxygen and aspirate air from the right atrium."
+ },
+ {
+  "id": 41,
+  "topic": "Gangrene (Dry, Wet)",
+  "ref": "p. 206",
+  "chapter": "Chapter 11: Arterial Diseases",
+  "answer": "Gangrene is macroscopic death of tissue with putrefaction. Dry gangrene follows gradual arterial occlusion with no infection, so the part is black, shrivelled and sharply demarcated. Wet gangrene occurs when infection and venous obstruction coexist, giving a swollen, foul-smelling, spreading area with toxaemia. Diabetics and smokers are at higher risk. Treatment is amputation in wet gangrene and control of risk factors, with delayed amputation in dry."
+ },
+ {
+  "id": 42,
+  "topic": "Haemangioma",
+  "ref": "p. 209",
+  "chapter": "Chapter 11: Arterial Diseases",
+  "answer": "Haemangioma is a benign vascular tumour formed of proliferating endothelial cells. Capillary (strawberry) type appears soon after birth and usually regresses by about 5-7 years. Cavernous type is a soft, compressible, bluish swelling in deeper tissues. Oral cavity lesions can bleed during dental procedures. Treatment is observation, propranolol, laser, sclerotherapy or surgery."
+ },
+ {
+  "id": 43,
+  "topic": "Deep Vein Thrombosis",
+  "ref": "p. 218",
+  "chapter": "Chapter 12: Venous Diseases",
+  "answer": "DVT is thrombus formation in deep veins, mostly of the calf and leg, based on Virchow's triad of stasis, vessel wall injury and hypercoagulability. Risk factors include surgery, immobility, pregnancy, cancer and oral contraceptives. Features are leg swelling, pain, warmth and tenderness, with Homan's sign. The main danger is pulmonary embolism. Diagnosis is Doppler ultrasound and D-dimer, and treatment is anticoagulants (heparin then warfarin or DOAC)."
+ },
+ {
+  "id": 44,
+  "topic": "Thrombophlebitis",
+  "ref": "p. 230",
+  "chapter": "Chapter 12: Venous Diseases",
+  "answer": "Thrombophlebitis is inflammation of a vein with clot formation, usually superficial. It follows IV cannulas, varicose veins, trauma or infection. The vein is a painful, tender, red cord with surrounding warmth. Migratory type suggests Buerger's disease or malignancy. Treatment is warm compresses, NSAIDs, elevation, and anticoagulants if the clot is extensive or near the deep system."
+ },
+ {
+  "id": 45,
+  "topic": "Low Molecular Weight Heparin",
+  "ref": "p. 230",
+  "chapter": "Chapter 12: Venous Diseases",
+  "answer": "LMWHs such as enoxaparin and dalteparin are fragments of unfractionated heparin that mainly inhibit factor Xa. They have predictable dose response, a longer half-life and need no routine monitoring. They are given subcutaneously once or twice daily. They are used to prevent and treat DVT, pulmonary embolism and unstable angina. Side effects are bleeding, thrombocytopenia (HIT) and osteoporosis with long use; protamine reverses them partly."
+ },
+ {
+  "id": 46,
+  "topic": "Primary Lymphoedema",
+  "ref": "p. 233",
+  "chapter": "Chapter 13: Lymphatics",
+  "answer": "Primary lymphoedema is swelling from developmental abnormality of lymphatics without any acquired cause. It is classified as congenital (Milroy's), praecox (onset at puberty, Meige's) and tarda (after age 35). It usually involves the legs, and is painless, pitting at first and later non-pitting and woody. Skin becomes thickened with recurrent cellulitis. Treatment is compression, limb elevation, massage, skin care and surgery in selected cases."
+ },
+ {
+  "id": 47,
+  "topic": "Chronic Cervical Lymphadenopathy",
+  "ref": "p. 238",
+  "chapter": "Chapter 13: Lymphatics",
+  "answer": "Chronic enlargement of cervical nodes lasting more than 6 weeks needs careful evaluation. Causes include tuberculosis, chronic nonspecific infection, lymphoma, metastases from head and neck cancers and HIV. Examination covers the nodes, oral cavity, throat, thyroid and scalp. Investigations include FNAC, chest X-ray, Mantoux test and biopsy. Treatment depends on cause, such as antitubercular therapy or cancer treatment."
+ },
+ {
+  "id": 48,
+  "topic": "Lymphomas",
+  "ref": "p. 240",
+  "chapter": "Chapter 13: Lymphatics",
+  "answer": "Lymphomas are malignant tumours of lymphoid tissue, divided into Hodgkin and non-Hodgkin types. They present with painless enlarging lymph nodes, fever, night sweats and weight loss. Extranodal sites include the tonsil, gut and Waldeyer's ring. Diagnosis needs excision node biopsy with immunohistochemistry, then staging by CT or PET. Treatment is chemotherapy, radiotherapy and sometimes monoclonal antibody therapy."
+ },
+ {
+  "id": 49,
+  "topic": "Hodgkin's Lymphoma",
+  "ref": "p. 240",
+  "chapter": "Chapter 13: Lymphatics",
+  "answer": "Hodgkin's lymphoma is a B-cell malignancy with characteristic Reed-Sternberg cells. It has a bimodal age peak, in young adults and over 50 years. It presents with painless rubbery cervical nodes, with B symptoms of fever, sweats and weight loss. Staged by the Ann Arbor classification (I-IV). Treatment is ABVD chemotherapy with or without radiotherapy, and cure rates are high."
+ },
+ {
+  "id": 50,
+  "topic": "Tubercular Lymphadenitis (and Its Stages)",
+  "ref": "p. 245",
+  "chapter": "Chapter 13: Lymphatics",
+  "answer": "This is tuberculous infection of lymph nodes, most often cervical (scrofula), caused by Mycobacterium tuberculosis. Stage 1 is enlarged firm mobile nodes, stage 2 is periadenitis with matting, stage 3 is cold abscess formation (collar stud), and stage 4 is sinus formation. Patients have a painless neck swelling with low-grade fever and weight loss. Diagnosis is FNAC, Mantoux test and node biopsy. Treatment is standard antitubercular therapy, with aspiration or excision where needed."
+ },
+ {
+  "id": 51,
+  "topic": "Peripheral Nerve Injuries",
+  "ref": "p. 248",
+  "chapter": "Chapter 14: Nerves and Tendon",
+  "answer": "Peripheral nerve injuries follow trauma, compression, traction or lacerations. Seddon classifies them as neurapraxia, axonotmesis and neurotmesis. Features are motor weakness, sensory loss and absent reflexes in the nerve's territory. Diagnosis is clinical, with nerve conduction studies and EMG. Treatment is conservative for neurapraxia and surgical repair for divided nerves."
+ },
+ {
+  "id": 52,
+  "topic": "Neurotmesis",
+  "ref": "p. 248",
+  "chapter": "Chapter 14: Nerves and Tendon",
+  "answer": "Neurotmesis is complete division of the nerve including axon and all connective tissue sheaths. Wallerian degeneration occurs distal to the injury. There is complete motor and sensory loss, and spontaneous recovery does not occur. It carries the worst prognosis. Treatment is surgical repair by end-to-end suturing or nerve grafting."
+ },
+ {
+  "id": 53,
+  "topic": "Trigeminal Neuralgia",
+  "ref": "p. 256",
+  "chapter": "Chapter 14: Nerves and Tendon",
+  "answer": "Trigeminal neuralgia is a severe, brief, electric-shock-like facial pain in the distribution of one or more branches of the fifth nerve. It is usually caused by vascular compression of the nerve root. Attacks are triggered by touching, chewing, talking or brushing teeth. It is commonly misdiagnosed as dental pain. Treatment is carbamazepine, with microvascular decompression or radiofrequency ablation in refractory cases."
+ },
+ {
+  "id": 54,
+  "topic": "Sarcoma",
+  "ref": "p. 263",
+  "chapter": "Chapter 15: Neoplasm and Soft Tissue Tumors",
+  "answer": "Sarcomas are malignant tumours of mesenchymal tissue such as muscle, fat, fibrous tissue, bone and vessels. Types include liposarcoma, rhabdomyosarcoma, fibrosarcoma and osteosarcoma. They present as a progressively enlarging deep painless mass, and spread mainly through blood to the lungs. Diagnosis is MRI, core biopsy and CT chest. Treatment is wide local excision with radiotherapy and chemotherapy in selected cases."
+ },
+ {
+  "id": 55,
+  "topic": "Metastasis",
+  "ref": "p. 260",
+  "chapter": "Chapter 15: Neoplasm and Soft Tissue Tumors",
+  "answer": "Metastasis is the spread of malignant cells from the primary tumour to distant sites. Routes are direct local extension, lymphatic, haematogenous and transcoelomic spread. Carcinomas favour lymphatic spread, while sarcomas favour the blood. Common sites include the lung, liver, bone and brain. It denotes advanced disease and guides staging and treatment."
+ },
+ {
+  "id": 56,
+  "topic": "Squamous Cell Carcinoma",
+  "ref": "p. 274",
+  "chapter": "Chapter 16: Skin Tumors",
+  "answer": "Squamous cell carcinoma is a malignant tumour of keratinocytes, seen in sun-exposed skin, lip and mouth. Risk factors are UV light, chronic ulcers, scars, tobacco and immunosuppression. It appears as a hard, everted-edge, ulcerated lesion that bleeds easily. It spreads via lymphatics to regional nodes. Treatment is wide excision, radiotherapy and node dissection if involved."
+ },
+ {
+  "id": 57,
+  "topic": "Basal Cell Carcinoma (Rodent Ulcer)",
+  "ref": "p. 277",
+  "chapter": "Chapter 16: Skin Tumors",
+  "answer": "BCC is the commonest skin cancer, arising from basal cells of the epidermis in sun-exposed skin. It begins as a pearly nodule with telangiectasia that ulcerates with a rolled edge. It is slow-growing and locally invasive but almost never metastasises. Types include nodular, cystic, morphoeic and pigmented. Treatment is excision with margins, Mohs surgery, radiotherapy or curettage."
+ },
+ {
+  "id": 58,
+  "topic": "Marjolin's Ulcer",
+  "ref": "p. 276",
+  "chapter": "Chapter 16: Skin Tumors",
+  "answer": "Marjolin's ulcer is a squamous cell carcinoma arising in a chronic wound, burn scar, venous ulcer or osteomyelitic sinus. It develops after a long latent period of many years. It shows a raised, everted edge, hard base and pain-free spread. Because the scar has few lymphatics, nodal spread is late. Treatment is wide excision with skin graft or amputation."
+ },
+ {
+  "id": 59,
+  "topic": "Melanoma",
+  "ref": "p. 280",
+  "chapter": "Chapter 16: Skin Tumors",
+  "answer": "Melanoma is a highly malignant tumour of melanocytes that arises from a mole or de novo skin. Types are superficial spreading, nodular, lentigo maligna and acral lentiginous. The ABCDE rule (asymmetry, border, colour, diameter, evolution) alerts to it. Prognosis depends on Breslow thickness. Treatment is wide excision based on depth, sentinel node biopsy, and immunotherapy or targeted therapy in advanced disease."
+ },
+ {
+  "id": 60,
+  "topic": "Aetiology and Clinical Features of Malignant Melanoma",
+  "ref": "p. 280",
+  "chapter": "Chapter 16: Skin Tumors",
+  "answer": "Risk factors include intense UV exposure, fair skin, many moles, dysplastic naevi and family history. Familial cases relate to CDKN2A mutations. A pre-existing mole changes in size, colour and shape, and may itch, bleed or ulcerate. Satellite nodules and enlarged regional nodes suggest spread. Distant metastases go to the lung, liver, brain and bone."
+ },
+ {
+  "id": 61,
+  "topic": "Triangles of Neck",
+  "ref": "Anatomy",
+  "chapter": "Chapter 17: Neck",
+  "answer": "The sternocleidomastoid divides each side of the neck into anterior and posterior triangles. The anterior triangle has submental, submandibular, carotid and muscular subdivisions. The posterior triangle is split by the omohyoid into occipital and subclavian parts. The anterior triangle is bounded by the midline, mandible and sternomastoid. The posterior triangle is bounded by sternomastoid, trapezius and middle third of the clavicle."
+ },
+ {
+  "id": 62,
+  "topic": "Branchial Cyst",
+  "ref": "p. 287",
+  "chapter": "Chapter 17: Neck",
+  "answer": "Branchial cyst arises from remnants of the second branchial cleft. It presents in young adults as a smooth, soft, fluctuant swelling at the anterior border of the upper sternomastoid. Aspirate contains cholesterol crystals, appearing cloudy or straw-coloured. It may become infected suddenly. Treatment is complete surgical excision."
+ },
+ {
+  "id": 63,
+  "topic": "Branchial Sinus",
+  "ref": "p. 287",
+  "chapter": "Chapter 17: Neck",
+  "answer": "Branchial sinus is a blind tract that opens on the skin along the lower third of the sternomastoid anterior border. It is a remnant of the second branchial cleft present from birth. It discharges mucus or pus intermittently. Infection may cause recurrent inflammation. Treatment is excision of the entire tract, often by a stepladder incision."
+ },
+ {
+  "id": 64,
+  "topic": "Branchial Fistula",
+  "ref": "p. 287",
+  "chapter": "Chapter 17: Neck",
+  "answer": "Branchial fistula has both external (neck) and internal openings. The internal opening is in the tonsillar fossa in a second cleft fistula. It presents as a small opening in the lower neck with a mucoid discharge. The tract passes between the internal and external carotid arteries. Fistulography confirms it and treatment is complete excision."
+ },
+ {
+  "id": 65,
+  "topic": "Cystic Hygroma",
+  "ref": "p. 289",
+  "chapter": "Chapter 17: Neck",
+  "answer": "Cystic hygroma is a congenital lymphatic malformation formed by multiloculated cystic spaces. It most commonly lies in the posterior triangle of the neck in infants. It is soft, fluctuant, brilliantly transilluminant and compressible. Risks are infection, haemorrhage and airway compression. Treatment is excision or sclerotherapy using OK-432 or bleomycin."
+ },
+ {
+  "id": 66,
+  "topic": "Ludwig's Angina",
+  "ref": "p. 291",
+  "chapter": "Chapter 17: Neck",
+  "answer": "Ludwig's angina is a rapidly spreading cellulitis of submandibular, sublingual and submental spaces, usually from lower molar infection. It causes brawny, tender swelling of the floor of mouth and neck, with tongue elevation. Trismus, drooling, dysphagia and stridor develop. It is dangerous because of airway obstruction. Treatment is airway protection, IV antibiotics, drainage and removal of the tooth source."
+ },
+ {
+  "id": 67,
+  "topic": "Cervical Rib",
+  "ref": "Neck",
+  "chapter": "Chapter 17: Neck",
+  "answer": "A cervical rib is a congenital extra rib arising from the seventh cervical vertebra. It is more often bilateral and in females. It may compress the lower trunk of the brachial plexus and subclavian artery. This causes hand weakness, numbness along the ulnar side and vascular signs like Raynaud's. Treatment is physiotherapy and surgical excision if symptoms persist."
+ },
+ {
+  "id": 68,
+  "topic": "Thyroglossal Cyst / Thyroidal Fistula",
+  "ref": "p. 306",
+  "chapter": "Chapter 18: Thyroid",
+  "answer": "Thyroglossal cyst forms from the remnant of the thyroglossal duct, between the foramen caecum and the thyroid isthmus. It presents as a midline neck swelling that moves up on swallowing and on tongue protrusion. It lies in the subhyoid region usually. Infection may cause a fistula. Treatment is Sistrunk's operation, which removes the cyst, the tract and the central hyoid body."
+ },
+ {
+  "id": 69,
+  "topic": "Physiological Goitre",
+  "ref": "p. 310",
+  "chapter": "Chapter 18: Thyroid",
+  "answer": "Physiological goitre is diffuse thyroid enlargement at times of increased hormone demand, such as puberty and pregnancy. It occurs in euthyroid individuals. The gland is smooth, soft and symmetrical. It usually regresses without treatment. Iodine adequacy is ensured and thyroxine may be used if it persists."
+ },
+ {
+  "id": 70,
+  "topic": "Multinodular Goitre",
+  "ref": "p. 311",
+  "chapter": "Chapter 18: Thyroid",
+  "answer": "Multinodular goitre is an irregular enlargement of the thyroid with multiple nodules due to repeated cycles of hyperplasia and involution. It is common in iodine-deficient regions and in women. It may be euthyroid or become toxic. Pressure features include dyspnoea, dysphagia and retrosternal extension. Treatment is thyroidectomy for compressive symptoms, toxicity or suspicion of cancer."
+ },
+ {
+  "id": 71,
+  "topic": "Solitary Nodule of Thyroid",
+  "ref": "p. 312",
+  "chapter": "Chapter 18: Thyroid",
+  "answer": "A solitary thyroid nodule is a single palpable nodule that may be a cyst, adenoma or carcinoma. Malignancy is more likely in males, children, hard fixed nodules and with nodes or hoarseness. Investigations are thyroid function tests, ultrasound and FNAC, with a radioiodine scan for toxic cases. Cold nodules carry higher cancer risk than hot ones. Treatment is lobectomy for follicular or suspicious lesions and total thyroidectomy for cancer."
+ },
+ {
+  "id": 72,
+  "topic": "Thyroid Crisis (Thyrotoxicosis)",
+  "ref": "p. 313",
+  "chapter": "Chapter 18: Thyroid",
+  "answer": "Thyroid crisis (storm) is a life-threatening exacerbation of thyrotoxicosis, usually after surgery, infection or stopping antithyroid drugs. It features high fever, tachycardia, agitation, vomiting and delirium. Heart failure and arrhythmia may result. Treatment is propranolol, antithyroid drugs, iodine, steroids, cooling and IV fluids. Preparing patients with antithyroid drugs before surgery helps prevent it."
+ },
+ {
+  "id": 73,
+  "topic": "Hashimoto's Thyroiditis",
+  "ref": "p. 326",
+  "chapter": "Chapter 18: Thyroid",
+  "answer": "Hashimoto's is an autoimmune thyroiditis with lymphocytic infiltration, common in middle-aged women. It presents as a firm, diffuse, rubbery goitre, often with hypothyroidism. Anti-TPO and antithyroglobulin antibodies are raised. FNAC shows lymphocytes and Hurthle cells. Treatment is lifelong thyroxine, and surgery is reserved for compression or suspicion of lymphoma."
+ },
+ {
+  "id": 74,
+  "topic": "Riedel's Thyroiditis",
+  "ref": "p. 327",
+  "chapter": "Chapter 18: Thyroid",
+  "answer": "Riedel's thyroiditis is a rare chronic fibrosing disorder in which the thyroid is replaced by dense fibrous tissue. It extends into surrounding structures, producing a stony hard, fixed gland that mimics carcinoma. Patients have pressure symptoms such as dyspnoea and dysphagia. Biopsy is needed to exclude cancer. Treatment is isthmusectomy for decompression and steroids or tamoxifen."
+ },
+ {
+  "id": 75,
+  "topic": "Submandibular Sialadenitis",
+  "ref": "p. 345",
+  "chapter": "Chapter 20: Salivary Glands",
+  "answer": "This is inflammation of the submandibular gland, most commonly from a stone (sialolithiasis) in Wharton's duct. It presents with pain and swelling of the gland that worsens during meals. The gland is tender and the duct orifice may discharge pus. Diagnosis uses bimanual palpation, X-ray, ultrasound or sialography. Treatment is hydration, antibiotics, stone removal or gland excision if recurrent."
+ },
+ {
+  "id": 76,
+  "topic": "Salivary Fistula",
+  "ref": "p. 346",
+  "chapter": "Chapter 20: Salivary Glands",
+  "answer": "Salivary (parotid) fistula is a discharge of saliva through the skin from the gland or duct. It follows trauma, surgery or abscess drainage. Saliva leaks onto the cheek, increasing during eating. A glandular fistula often closes by itself, while a duct fistula persists. Treatment is pressure dressing, anticholinergics and surgical repair or duct diversion."
+ },
+ {
+  "id": 77,
+  "topic": "Pleomorphic Adenoma of Parotid",
+  "ref": "p. 348",
+  "chapter": "Chapter 20: Salivary Glands",
+  "answer": "Pleomorphic adenoma is the commonest salivary tumour, mostly in the superficial lobe of parotid. It is a slow-growing, painless, firm, lobulated swelling in middle-aged women, with an intact facial nerve. Histology shows epithelial and myoepithelial elements in a myxoid stroma. Enucleation causes recurrence due to pseudopodia. Treatment is superficial parotidectomy with facial nerve preservation, and there is a small risk of malignant change."
+ },
+ {
+  "id": 78,
+  "topic": "Warthin's Tumour",
+  "ref": "p. 355",
+  "chapter": "Chapter 20: Salivary Glands",
+  "answer": "Warthin's tumour (papillary cystadenoma lymphomatosum) is a benign parotid tumour. It occurs in older men and smokers, and may be bilateral or multicentric. It is a soft, cystic, slow-growing swelling at the parotid tail. It takes up technetium-99m on scan. Treatment is superficial parotidectomy or sometimes observation."
+ },
+ {
+  "id": 79,
+  "topic": "Ranula and Plunging Ranula",
+  "ref": "p. 364",
+  "chapter": "Chapter 21: Oral Cavity",
+  "answer": "Ranula is a mucous retention cyst of the sublingual gland that forms a bluish translucent swelling in the floor of mouth. It resembles a frog's belly. Plunging (cervical) ranula extends through the mylohyoid into the neck. It presents as a painless soft swelling that may enlarge. Treatment is excision of the sublingual gland with the cyst, as marsupialisation alone recurs."
+ },
+ {
+  "id": 80,
+  "topic": "Leukoplakia",
+  "ref": "p. 366",
+  "chapter": "Chapter 21: Oral Cavity",
+  "answer": "Leukoplakia is a white patch of the oral mucosa that cannot be rubbed off or classed as another disease. It is linked to tobacco, alcohol, betel nut chewing and chronic irritation. It may be homogeneous, nodular or speckled, and speckled types carry greater risk. Malignant transformation is about 5-10%. Treatment is stopping habits, biopsy and excision or laser of dysplastic areas."
+ },
+ {
+  "id": 81,
+  "topic": "Erythroplakia",
+  "ref": "p. 367",
+  "chapter": "Chapter 21: Oral Cavity",
+  "answer": "Erythroplakia is a bright red, velvety patch in the mouth that cannot be attributed to another condition. It most often affects the floor of mouth, soft palate and tongue. It has a high risk of malignant change, with most lesions showing dysplasia or carcinoma in situ. It is more dangerous than leukoplakia. Treatment is early biopsy and complete excision."
+ },
+ {
+  "id": 82,
+  "topic": "Premalignant Conditions of Oral Cavity",
+  "ref": "p. 368",
+  "chapter": "Chapter 21: Oral Cavity",
+  "answer": "Premalignant lesions include leukoplakia, erythroplakia and oral submucous fibrosis. Others are lichen planus (erosive form), syphilitic glossitis, chronic hyperplastic candidiasis and Plummer-Vinson syndrome. Causes are tobacco, betel quid, alcohol, poor oral hygiene and sharp teeth. Any persistent lesion needs biopsy. Management is removing the cause, regular surveillance and excision of dysplastic areas."
+ },
+ {
+  "id": 83,
+  "topic": "Carcinoma of Lip",
+  "ref": "p. 377",
+  "chapter": "Chapter 21: Oral Cavity",
+  "answer": "Carcinoma of lip is usually a squamous cell carcinoma of the lower lip, most often in men. Risk factors are smoking, pipe use, sun exposure and poor oral hygiene. It presents as a non-healing ulcer or crusted growth with a raised everted edge. It spreads to submental and submandibular nodes. Treatment is wedge excision or radiotherapy for small lesions and neck dissection for nodal disease."
+ },
+ {
+  "id": 84,
+  "topic": "Waldeyer's Ring",
+  "ref": "p. 402",
+  "chapter": "Chapter 23: Tonsils",
+  "answer": "Waldeyer's ring is a ring of lymphoid tissue guarding the entrance of the pharynx. It includes the adenoids (pharyngeal tonsil), tubal tonsils, palatine tonsils and lingual tonsil. Lymphoid tissue also lies in the pharyngeal wall bands. It forms the first line of immune defence against inhaled and ingested organisms. Lymphoma may arise here."
+ },
+ {
+  "id": 85,
+  "topic": "Tonsillitis",
+  "ref": "p. 403",
+  "chapter": "Chapter 23: Tonsils",
+  "answer": "Tonsillitis is inflammation of the palatine tonsils, caused by viruses or bacteria like group A streptococcus. It presents with sore throat, painful swallowing, fever and enlarged tender neck nodes. The tonsils are red with exudate. Complications include quinsy, rheumatic fever and glomerulonephritis. Treatment is rest, fluids, analgesics and penicillin, with tonsillectomy for recurrent attacks."
+ },
+ {
+  "id": 86,
+  "topic": "Quinsy (Peritonsillar Abscess)",
+  "ref": "p. 404",
+  "chapter": "Chapter 23: Tonsils",
+  "answer": "Quinsy is a collection of pus between the tonsil capsule and superior constrictor, usually after acute tonsillitis. Features are severe unilateral throat pain, trismus, muffled voice, drooling and fever. The tonsil is pushed medially and the uvula is displaced to the opposite side. Treatment is needle aspiration or incision and drainage plus IV antibiotics. Interval tonsillectomy is considered after recurrence."
+ },
+ {
+  "id": 87,
+  "topic": "Cleft Lip",
+  "ref": "p. 407",
+  "chapter": "Chapter 24: Cleft Lip, Cleft Palate and Jaw Tumors",
+  "answer": "Cleft lip is a congenital failure of fusion of the maxillary and medial nasal processes, usually on the left. It may be unilateral or bilateral, partial or complete. It causes feeding, speech and cosmetic problems. Associated causes include genetic factors, maternal smoking, folate deficiency and drugs. Repair is done at about 3 months by the rule of tens, using the Millard technique."
+ },
+ {
+  "id": 88,
+  "topic": "Cleft Palate",
+  "ref": "p. 407",
+  "chapter": "Chapter 24: Cleft Lip, Cleft Palate and Jaw Tumors",
+  "answer": "Cleft palate results from failure of fusion of palatal shelves, and is classified as soft, hard or complete. It causes feeding difficulty, nasal regurgitation, speech defects and recurrent otitis media. It is more frequent in females. Management involves a team of surgeon, orthodontist, speech therapist and audiologist. Repair is done at 9-18 months, before speech develops, such as by the Veau-Wardill-Kilner operation."
+ },
+ {
+  "id": 89,
+  "topic": "Epulis",
+  "ref": "p. 413",
+  "chapter": "Chapter 24: Cleft Lip, Cleft Palate and Jaw Tumors",
+  "answer": "Epulis is a localized swelling of the gum. Types are fibrous, granulomatous (pyogenic) and giant cell (myeloid) epulis, and a malignant form. Pregnancy epulis is a pyogenic type that appears in pregnancy. Causes include local irritation from calculus or poor-fitting dentures. Treatment is excision with removal of the underlying irritant."
+ },
+ {
+  "id": 90,
+  "topic": "Ameloblastoma (Adamantinoma)",
+  "ref": "p. 414",
+  "chapter": "Chapter 24: Cleft Lip, Cleft Palate and Jaw Tumors",
+  "answer": "Ameloblastoma is a benign but locally aggressive odontogenic tumour from the enamel organ. It mostly arises in the mandible, near the molar and ramus. It presents as a slow, painless jaw swelling with expansion and loosening of teeth. X-ray shows a multilocular 'soap bubble' appearance. It recurs if incompletely removed, and treatment is wide resection with a margin of normal bone."
+ },
+ {
+  "id": 91,
+  "topic": "Dentigerous Cyst",
+  "ref": "p. 415",
+  "chapter": "Chapter 24: Cleft Lip, Cleft Palate and Jaw Tumors",
+  "answer": "Dentigerous (follicular) cyst develops around the crown of an unerupted tooth, from reduced enamel epithelium. It most often involves the lower third molar and upper canine. It is painless, slow growing and may expand the jaw. X-ray shows a well-defined radiolucency attached at the cementoenamel junction. Treatment is enucleation with removal of the involved tooth."
+ },
+ {
+  "id": 92,
+  "topic": "Dental (Radicular) Cyst",
+  "ref": "p. 416",
+  "chapter": "Chapter 24: Cleft Lip, Cleft Palate and Jaw Tumors",
+  "answer": "Dental cyst arises from epithelial rests of Malassez after pulp death and periapical infection. It is the commonest jaw cyst. It forms a slow-growing, painless swelling at the root apex of a non-vital tooth. X-ray shows a round radiolucency at the root tip. Treatment is root canal therapy, apicectomy or extraction with cyst enucleation."
+ },
+ {
+  "id": 93,
+  "topic": "Facial Fractures",
+  "ref": "p. 421-423",
+  "chapter": "Chapter 25: Maxillofacial Injuries",
+  "answer": "Facial fractures follow road traffic accidents, assaults and falls. The Le Fort classification describes maxillary fractures as I (transverse), II (pyramidal) and III (craniofacial disjunction). Other fractures involve the zygoma, nasal bones and orbit. Signs include swelling, malocclusion, mobility, bruising and cerebrospinal fluid leak. Airway is secured first, then CT imaging and fixation with miniplates or wires."
+ },
+ {
+  "id": 94,
+  "topic": "Fracture of Mandible",
+  "ref": "p. 430",
+  "chapter": "Chapter 25: Maxillofacial Injuries",
+  "answer": "Mandible fractures are common, mostly at the angle, body, symphysis and condyle. Features are pain, malocclusion, step deformity, abnormal mobility and numbness of the lower lip. Fractures through tooth-bearing areas are compound into the mouth. Diagnosis is by orthopantomogram and CT. Treatment is reduction and fixation by intermaxillary fixation or open reduction with plates, plus antibiotics."
+ },
+ {
+  "id": 95,
+  "topic": "Tracheostomy (and Its Complications)",
+  "ref": "p. 439",
+  "chapter": "Chapter 26: Tracheostomy",
+  "answer": "Tracheostomy is a surgical opening in the trachea through the 2nd-4th rings. Indications are upper airway obstruction, prolonged ventilation, retained secretions and head and neck surgery. It is done under local or general anaesthesia via a horizontal skin incision. Immediate complications are bleeding, pneumothorax and injury to surrounding structures. Late ones are tube block, infection, tracheal stenosis, tracheo-oesophageal fistula and erosion of the innominate artery."
+ },
+ {
+  "id": 96,
+  "topic": "Paget's Disease of Bone",
+  "ref": "p. 454",
+  "chapter": "Chapter 27: Basic Orthopedics",
+  "answer": "Paget's disease is a chronic disorder of excessive, disorganised bone remodelling in older adults. Bones become thick, soft and vascular, commonly the skull, pelvis, spine and tibia. Features are bone pain, deformity, bowing, deafness and rarely osteosarcoma. Alkaline phosphatase is markedly raised with normal calcium. In jaws it causes enlargement and loosening of teeth, and treatment is bisphosphonates and analgesics."
+ },
+ {
+  "id": 97,
+  "topic": "Plummer-Vinson Syndrome",
+  "ref": "p. 472",
+  "chapter": "Chapter 28: Esophagus",
+  "answer": "Plummer-Vinson (Paterson-Brown-Kelly) syndrome is a triad of dysphagia, iron deficiency anaemia and oesophageal web. It occurs mostly in middle-aged women. Other features are glossitis, angular stomatitis and koilonychia. It is a premalignant condition, with risk of postcricoid and oral carcinoma. Treatment is iron replacement and dilatation of the web."
+ },
+ {
+  "id": 98,
+  "topic": "Extradural Haematoma",
+  "ref": "p. 481",
+  "chapter": "Chapter 29: Neurosurgery",
+  "answer": "Extradural haematoma is blood collecting between the skull and dura, usually from tear of the middle meningeal artery after a temporal bone fracture. Classically there is a head injury with a lucid interval followed by drowsiness, headache and vomiting. A dilated pupil on the same side, hemiparesis and Cushing's response indicate herniation. CT shows a biconvex (lens-shaped) hyperdense lesion. Treatment is urgent burr hole or craniotomy and evacuation."
+ },
+ {
+  "id": 99,
+  "topic": "Subdural Haematoma",
+  "ref": "p. 483",
+  "chapter": "Chapter 29: Neurosurgery",
+  "answer": "Subdural haematoma is blood between dura and arachnoid, from torn bridging veins. Acute type follows severe head injury with early deterioration. Chronic type affects elderly people and alcoholics after trivial trauma, with headache, confusion and fluctuating consciousness. CT shows a crescent-shaped collection. Treatment is burr hole drainage or craniotomy for large clots."
+ },
+ {
+  "id": 100,
+  "topic": "Sutures Used in Surgery",
+  "ref": "p. 510",
+  "chapter": "Chapter 31: Instruments and Suture Materials",
+  "answer": "Sutures are materials used to approximate tissues and are absorbable or non-absorbable. Absorbable types include catgut, polyglactin (Vicryl) and polydioxanone. Non-absorbable types include silk, nylon, polypropylene and steel. They may be monofilament, with less infection, or braided, which are easier to handle. Choice depends on tissue, tension, healing time and infection risk, and needle size is matched."
+ },
+ {
+  "id": 101,
+  "topic": "Diathermy / Electrosurgery",
+  "ref": "p. 513",
+  "chapter": "Chapter 32: Cautery, Laser, Cryosurgery and Day Care Surgery",
+  "answer": "Diathermy uses high-frequency electric current to cut and coagulate tissues. Monopolar uses an active electrode and return plate, and bipolar passes current between forceps tips. It controls small bleeding vessels and permits precise cutting. Hazards include burns, explosion with flammable agents and interference with pacemakers. Safety needs correct plate placement and avoiding use with spirit-based skin preparations."
+ },
+ {
+  "id": 102,
+  "topic": "Lasers in Dentistry",
+  "ref": "p. 514",
+  "chapter": "Chapter 32: Cautery, Laser, Cryosurgery and Day Care Surgery",
+  "answer": "Laser means light amplification by stimulated emission of radiation. Diode, Nd:YAG, CO2 and Er:YAG lasers are used in dentistry. They are used for soft tissue incision, haemostasis, cavity preparation, gum recontouring and treating oral lesions. Advantages are less bleeding, less pain, sterilization of the field and faster healing. Eye protection is essential and equipment is expensive."
+ },
+ {
+  "id": 103,
+  "topic": "Local Anaesthesia",
+  "ref": "p. 525",
+  "chapter": "Chapter 34: Anesthesia",
+  "answer": "Local anaesthetics block nerve conduction by inhibiting sodium channels, giving loss of sensation without loss of consciousness. Amide agents such as lignocaine, bupivacaine and articaine are commonly used. Adrenaline prolongs action and reduces bleeding, but is avoided in end-arteries. Techniques include infiltration, nerve block, topical and regional anaesthesia. Complications are toxicity (tinnitus, perioral numbness, seizures, arrhythmias), allergy and injection site injury."
+ },
+ {
+  "id": 104,
+  "topic": "Bell's Palsy / Facial Nerve Palsy",
+  "ref": "Nerves",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "Bell's palsy is sudden unilateral lower motor neuron facial paralysis of unknown cause, often linked to herpes virus. Patients cannot close the eye, wrinkle the forehead or smile on the affected side. Taste and hyperacusis may be affected. It is a diagnosis of exclusion after ruling out stroke, tumour and trauma. Treatment is oral prednisolone, antivirals, eye protection and physiotherapy, and most recover in weeks."
+ },
+ {
+  "id": 105,
+  "topic": "TMJ Dislocation",
+  "ref": "Ch. 25 / 35A",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "TMJ dislocation is forward displacement of the mandibular condyle beyond the articular eminence. It follows wide yawning, trauma or dental procedures. The jaw is locked open, with inability to close the mouth, drooling and a preauricular hollow. Treatment is manual reduction with downward and backward pressure on the molars, under sedation if needed. Recurrent cases need jaw bandage, injection or surgery."
+ },
+ {
+  "id": 106,
+  "topic": "Epistaxis",
+  "ref": "ENT",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "Epistaxis is bleeding from the nose, most commonly from Little's area of the anterior septum. Causes include trauma, nose picking, hypertension, dry air and bleeding disorders. First aid is sitting forward and pinching the soft part of the nose for 10-15 minutes. Persistent bleeding needs cautery with silver nitrate, nasal packing or ligation of vessels. Posterior bleeds are more serious and need hospital care."
+ },
+ {
+  "id": 107,
+  "topic": "Oral Thrush",
+  "ref": "Oral cavity",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "Oral thrush is a fungal infection of the mouth by Candida albicans. It appears as creamy white plaques that scrape off to leave a red raw surface. Risk factors are infancy, denture wearing, diabetes, steroids, antibiotics and HIV. It may cause soreness, burning and altered taste. Treatment is nystatin or fluconazole, plus good oral hygiene and denture cleaning."
+ },
+ {
+  "id": 108,
+  "topic": "Branches of External Carotid Artery",
+  "ref": "Anatomy",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "The external carotid artery arises at the upper border of the thyroid cartilage and ends in the parotid gland. It has eight branches. Anterior branches are superior thyroid, lingual and facial. The posterior branches are occipital and posterior auricular, the medial branch is ascending pharyngeal. The terminal branches are the maxillary and superficial temporal arteries."
+ },
+ {
+  "id": 109,
+  "topic": "FNAC (Fine Needle Aspiration Cytology)",
+  "ref": "Diagnostics",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "FNAC is a quick outpatient test that uses a thin needle to aspirate cells from a lump. It is used for thyroid, lymph node, breast, salivary gland and soft tissue swellings. The cells are smeared, stained and examined under a microscope. It is cheap, safe and gives early diagnosis. Limitations are inadequate samples and inability to assess tissue architecture, so biopsy may be needed."
+ },
+ {
+  "id": 110,
+  "topic": "Polymerase Chain Reaction (PCR)",
+  "ref": "Ch. 30",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "PCR is a laboratory technique that amplifies a specific DNA segment millions of times. It uses repeated cycles of denaturation, primer annealing and extension by Taq polymerase. It is highly sensitive and fast. It is used to detect infections such as TB, HIV and COVID-19, to find genetic mutations and in forensics. Contamination is the main risk of false positives."
+ },
+ {
+  "id": 111,
+  "topic": "Dukes Classification",
+  "ref": "Colorectal cancer",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "Dukes classification stages colorectal cancer by depth of bowel wall invasion and nodal spread. Stage A is confined to the mucosa and submucosa, and stage B extends through the muscle wall. Stage C involves regional lymph nodes. Stage D (added later) means distant metastases. It predicts prognosis, with five-year survival falling from over 90% in A to very low in D."
+ },
+ {
+  "id": 112,
+  "topic": "Diagnosis of Diabetes Mellitus",
+  "ref": "Medicine",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "Diabetes is diagnosed by raised blood glucose or HbA1c. Fasting plasma glucose of 126 mg/dL or more, or a random value of 200 mg/dL or more with symptoms, confirms it. A 2-hour OGTT value of 200 mg/dL or more or HbA1c of 6.5% or more is also diagnostic. Classic symptoms are polyuria, polydipsia, weight loss and fatigue. Dental relevance includes delayed healing, periodontitis and infection risk."
+ },
+ {
+  "id": 113,
+  "topic": "Skin / Sickle Cell Syndrome (as written)",
+  "ref": "Unclear",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "This item is unclear in the question bank, so it may be 'Sickle cell syndrome' or a skin topic. Sickle cell disease is an inherited haemoglobin S disorder in which red cells sickle under low oxygen. It causes painful crises, haemolytic anaemia and organ damage. Dental surgery needs care with anaesthesia, dehydration and infection to avoid precipitating a crisis. Please confirm the intended topic with your teacher or notes."
+ },
+ {
+  "id": 114,
+  "topic": "DUT (as written)",
+  "ref": "Unclear",
+  "chapter": "Topics Not Found in the Contents (Standard Reference Summaries)",
+  "answer": "This abbreviation is unclear in the question bank and cannot be summarised reliably. It may be a shorthand for a topic such as 'duodenal ulcer treatment' or a note from your lecturer. Check the original lecture notes or ask a classmate for the full term. Once you confirm it, I can add a proper five-sentence summary. Until then, please treat this entry as a placeholder."
+ }
+]
