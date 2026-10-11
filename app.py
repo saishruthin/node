@@ -123,7 +123,7 @@ if not pool:                      # everything sorted -> start revising all topi
 a, b, c = st.columns(3)
 a.metric("✅ Sure", len(memory["sure"]))
 b.metric("❓ Not sure", len(memory["unsure"]))
-c.metric("🎲 Left to roll", len(pool))
+c.metric("😭 Questions left", len(pool))
 
 st.divider()
 
