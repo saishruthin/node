@@ -302,6 +302,35 @@ def show_lists():
 show_lists()
 
 
+# ---------------------------------- sidebar: all questions, click to see the answer
+def tick_for(qid, memory):
+    """✅ = sure, ❌ = not sure, ⬜ = not sorted yet"""
+    if str(qid) in memory["sure"]:
+        return "✅"
+    if str(qid) in memory["unsure"]:
+        return "❌"
+    return "⬜"
+
+
+@st.fragment(run_every="5s")   # refreshes by itself so you see your friend's ticks too
+def show_sidebar():
+    memory = load_memory()
+    st.header("📚 All questions")
+    st.caption("✅ sure   ❌ not sure   ⬜ not sorted yet")
+    search = st.text_input("Search", placeholder="type a topic...").strip().lower()
+
+    for qid, q in QUESTIONS.items():
+        if search and search not in q["topic"].lower():
+            continue
+        with st.expander(f"{tick_for(qid, memory)} Q{q['id']}. {q['topic']}"):
+            st.caption(f"{q['chapter']}  ·  {q['ref']}")
+            st.write(q["answer"])
+
+
+with st.sidebar:
+    show_sidebar()
+
+
 # ------------------------------------------------------------------- footer
 st.markdown(
     "<p style='text-align:center; opacity:0.8; font-size:20px; margin-top:60px;'>"
