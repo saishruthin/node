@@ -17,7 +17,7 @@ from datetime import datetime
 import streamlit as st
 
 # ------------------------------------------------------------------ settings
-TITLE = "Vaibhavi Ivy's Bitch ass General Surgery Questions 😡!!!!!!!!!!!"
+TITLE = "Ivy's Bitch ass General Surgery Questions 😡!!!!!!!!!!!"
 
 FOLDER = os.path.dirname(os.path.abspath(__file__))
 QUESTIONS_FILE = os.path.join(FOLDER, "questions.json")   # the 114 topics
@@ -199,7 +199,7 @@ show_lists()
 
 # ------------------------------------------- 3 pictures side by side (above footer)
 def find_image(name):
-    """Looks for image1.png / image1.jpg / image1.jpeg / image1.webp in this folder"""
+    """Looks for Image1.jpg / image1.jpg / image1.jpeg / image1.webp in this folder"""
     for ext in ("png", "jpg", "jpeg", "webp"):
         for path in glob.glob(os.path.join(FOLDER, f"{name}.{ext}")) + \
                     glob.glob(os.path.join(FOLDER, f"{name}.{ext.upper()}")):
