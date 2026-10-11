@@ -2,8 +2,8 @@
 General Surgery Dice Quiz - shared by you and your friend.
 
 Run:  streamlit run app.py --server.address 0.0.0.0
-Put image1, image2, image3 (png / jpg / jpeg / webp) in this same folder
-and they show side by side above the footer.
+Put sure.jpg and notsure.jpg in this same folder - they become the
+background of the SURE and NOT SURE buttons.
 """
 
 import base64
@@ -24,7 +24,8 @@ QUESTIONS_FILE = os.path.join(FOLDER, "questions.json")   # the 114 topics
 MEMORY_FILE = os.path.join(FOLDER, "shared_state.json")   # shared Sure / Not sure lists
 NOTEPAD_FILE = os.path.join(FOLDER, "study_notes.txt")    # the notepad
 
-PICTURES_MAX_WIDTH = 700   # total width of the 3 pictures in pixels
+BUTTON_WIDTH = 350   # width of each picture button in pixels (height follows the picture's shape)
+BUTTON_TEXT = "!!!!!!!!!!!"   # added after the words under the buttons
 
 st.set_page_config(page_title="Surgery Dice Quiz", page_icon="🎲", layout="wide")
 
@@ -128,23 +129,130 @@ st.divider()
 
 
 # ------------------------------------------------------------ the 3 buttons
-roll_col, reveal_col, reset_col = st.columns(3)
+st.markdown(
+    """
+    <style>
+    /* big Roll button in the middle */
+    .st-key-roll_button { max-width: 340px; margin-left: auto; margin-right: auto; }
+    .st-key-roll_button button { width: 100%; height: 72px; }
+    .st-key-roll_button button p { font-size: 24px; font-weight: bold; }
 
-if roll_col.button("🎲 Roll the dice", type="primary", use_container_width=True,
-                   disabled=(state.current is not None or not pool)):
+    /* Reveal + Reset side by side below it (also on phones) */
+    .st-key-action_row { max-width: 560px; margin: 0 auto; }
+    .st-key-action_row [data-testid="stHorizontalBlock"] { flex-wrap: nowrap !important; }
+    .st-key-action_row [data-testid="stColumn"] { min-width: 0 !important; flex: 1 1 0 !important; }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
+if st.button("🎲 Roll the dice", key="roll_button", type="primary", use_container_width=True,
+             disabled=(state.current is not None or not pool)):
     state.current = random.choice(pool)
     state.revealed = False
     st.rerun()
 
-if reveal_col.button("👁️ Reveal answer", use_container_width=True,
-                     disabled=(state.current is None or state.revealed)):
-    state.revealed = True
-    st.rerun()
+with st.container(key="action_row"):
+    reveal_col, reset_col = st.columns(2)
 
-if reset_col.button("🔄 Reset question", use_container_width=True,
-                    disabled=(state.current is None)):
-    clear_question()
-    st.rerun()
+    if reveal_col.button("👁️ Reveal answer", use_container_width=True,
+                         disabled=(state.current is None or state.revealed)):
+        state.revealed = True
+        st.rerun()
+
+    if reset_col.button("🔄 Reset question", use_container_width=True,
+                        disabled=(state.current is None)):
+        clear_question()
+        st.rerun()
+
+
+# ------------------------------------------ picture buttons (sure.jpg / notsure.jpg)
+def find_picture(name):
+    """Finds sure.jpg / Sure.JPG / sure.png ... in this folder (any capital letters)"""
+    for file in os.listdir(FOLDER):
+        base, ext = os.path.splitext(file)
+        if base.lower() == name and ext.lower() in (".jpg", ".jpeg", ".png", ".webp"):
+            return os.path.join(FOLDER, file)
+    return None
+
+
+@st.cache_data
+def small_picture(path):
+    """Shrinks the picture so a big photo does not slow the page down"""
+    from PIL import Image
+    import io
+
+    img = Image.open(path).convert("RGB")
+    img.thumbnail((700, 700))          # keeps the picture's shape, only makes it smaller
+    buffer = io.BytesIO()
+    img.save(buffer, "JPEG", quality=85)
+    return base64.b64encode(buffer.getvalue()).decode(), img.width, img.height
+
+
+def button_picture_css(key, name):
+    """CSS that puts a picture on the st.button that has this key"""
+    path = find_picture(name)
+    if path is None:
+        return ""   # no picture found -> normal button with its text
+    data, width, height = small_picture(path)
+    return f"""
+    .st-key-{key} [data-testid="stButton"] {{ display: flex; justify-content: center; }}
+    .st-key-{key} button {{
+        background-image: url(data:image/jpeg;base64,{data});
+        background-size: 100% 100%;       /* picture fills the button exactly, no cropping */
+        background-repeat: no-repeat;
+        background-color: transparent;
+        border: none;
+        padding: 0;
+        min-height: 0;
+        width: {BUTTON_WIDTH}px;
+        max-width: 100%;
+        height: auto;
+        aspect-ratio: {width} / {height};  /* button has the same shape as your picture */
+        border-radius: 14px;
+    }}
+    .st-key-{key} button:hover {{ filter: brightness(1.15); }}
+    .st-key-{key} button p {{ display: none; }}
+    """
+
+
+def show_sort_buttons(locked):
+    """The SURE / NOT SURE picture buttons with words under them.
+    locked=True shows them greyed out. Returns "sure", "unsure" or None."""
+    st.markdown(
+        f"""
+        <style>
+        {button_picture_css("sure_button", "sure")}
+        {button_picture_css("unsure_button", "notsure")}
+        /* keep the two buttons side by side on phones too */
+        .st-key-sort_row [data-testid="stHorizontalBlock"] {{ flex-wrap: nowrap !important; }}
+        .st-key-sort_row [data-testid="stColumn"] {{ min-width: 0 !important; flex: 1 1 0 !important; }}
+        .st-key-sort_row button:disabled {{ opacity: 0.4; }}
+        .word-under {{ text-align: center; font-size: 22px; font-weight: bold; margin-top: 4px; }}
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    answer = None
+    with st.container(key="sort_row"):
+        sure_col, unsure_col = st.columns(2)
+
+        with sure_col:
+            if st.button("Sure", key="sure_button", use_container_width=True, disabled=locked):
+                answer = "sure"
+            st.markdown(f"<div class='word-under'>Sure{BUTTON_TEXT}</div>", unsafe_allow_html=True)
+
+        with unsure_col:
+            if st.button("Not sure", key="unsure_button", use_container_width=True, disabled=locked):
+                answer = "unsure"
+            st.markdown(f"<div class='word-under'>Not sure{BUTTON_TEXT}</div>", unsafe_allow_html=True)
+
+    for name in ("sure", "notsure"):
+        if find_picture(name) is None:
+            st.caption(f"⚠️ {name}.jpg not found in the app folder")
+
+    return answer
 
 
 # --------------------------------------------------------- the question card
@@ -159,18 +267,15 @@ if state.current is not None:
             st.write("Think about what you know, then press **Reveal answer**.")
         else:
             st.info(q["answer"])
-            st.write("**Did you know it?**")
-            sure_col, unsure_col = st.columns(2)
+            st.write("**Did you know it?** Press a picture below.")
 
-            if sure_col.button("✅ I was SURE", use_container_width=True):
-                mark(q["id"], "sure")
-                clear_question()
-                st.rerun()
+# the picture buttons are always visible; they unlock after you reveal the answer
+answer = show_sort_buttons(locked=not (state.current is not None and state.revealed))
 
-            if unsure_col.button("❓ NOT sure", use_container_width=True):
-                mark(q["id"], "unsure")
-                clear_question()
-                st.rerun()
+if answer:
+    mark(state.current, answer)
+    clear_question()
+    st.rerun()
 
 st.divider()
 
@@ -197,58 +302,9 @@ def show_lists():
 show_lists()
 
 
-# ------------------------------------------- 3 pictures side by side (above footer)
-def find_image(name):
-    """Looks for Image1.jpg / image1.jpg / image1.jpeg / image1.webp in this folder"""
-    for ext in ("png", "jpg", "jpeg", "webp"):
-        for path in glob.glob(os.path.join(FOLDER, f"{name}.{ext}")) + \
-                    glob.glob(os.path.join(FOLDER, f"{name}.{ext.upper()}")):
-            return path
-    return None
-
-
-def image_to_html(path):
-    ext = path.rsplit(".", 1)[1].lower().replace("jpg", "jpeg")
-    with open(path, "rb") as f:
-        data = base64.b64encode(f.read()).decode()
-    return f'<img src="data:image/{ext};base64,{data}">'
-
-
-st.divider()
-
-pictures = [find_image(name) for name in ("image1", "image2", "image3")]
-pictures = [p for p in pictures if p]
-
-if pictures:
-    # plain HTML row (not st.columns) so the pictures stay side by side on phones too
-    st.markdown(
-        f"""
-        <style>
-        .picture-row {{
-            display: flex;
-            gap: 10px;
-            max-width: {PICTURES_MAX_WIDTH}px;
-            margin: 0 auto;
-        }}
-        .picture-row img {{
-            flex: 1;
-            min-width: 0;
-            width: 100%;
-            aspect-ratio: 1 / 1;
-            object-fit: contain;
-            border-radius: 12px;
-        }}
-        </style>
-        <div class="picture-row">{"".join(image_to_html(p) for p in pictures)}</div>
-        """,
-        unsafe_allow_html=True,
-    )
-else:
-    st.caption("🖼️ Put image1, image2, image3 (png / jpg) in this folder and they will show here.")
-
-
 # ------------------------------------------------------------------- footer
 st.markdown(
-    "<p style='text-align:center; opacity:0.8; font-size:28px;'>Made with ❤️ by Shrubby<br>#pungu</p>",
+    "<p style='text-align:center; opacity:0.8; font-size:20px; margin-top:60px;'>"
+    "Made with ❤️ by Shrubby<br>#pungu<br>#friendship goals 😉</p>",
     unsafe_allow_html=True,
 )
