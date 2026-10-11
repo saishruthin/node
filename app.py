@@ -146,7 +146,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-if st.button("🎲 Roll the dice", key="roll_button", type="primary", use_container_width=True,
+if st.button("🎲 Random Question 🤔", key="roll_button", type="primary", use_container_width=True,
              disabled=(state.current is not None or not pool)):
     state.current = random.choice(pool)
     state.revealed = False
